@@ -1,0 +1,39 @@
+a{
+	text-decoration: none;
+	padding: 10px;
+	text-align: center;
+}
+
+h2{
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    width: 90%;
+    max-width: 40em;
+    margin: 0 auto;
+    color: #3f3a27;
+    background: #f4f0e5 url(https://image.freepik.com/free-photo/close-up-white-grey-color-cement-background-texture-mockup-design_42708-436.jpg) 35% 0 repeat-y;
+    padding: 0.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+label, input[type=text], select {
+    display: inline-block;
+    margin-bottom: 5px;    
+}
+
+label {
+    width: 30%;
+    text-align: right;
+    margin: 0 5% 0 0;
+}
+
+.radio{
+	   display: inline;
+       margin-bottom: 5px; 
+       width: auto;  
+   }
