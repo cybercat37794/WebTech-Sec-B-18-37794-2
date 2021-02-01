@@ -1,6 +1,9 @@
 # Web Technologics course repository
-# HTML
-# CSS
-# Javascript
-# php
-# 
+# ID: 18-37794-2
+# Section: B
+Course Topic:
+ HTML
+ CSS
+ Javascript
+ php
+ 
