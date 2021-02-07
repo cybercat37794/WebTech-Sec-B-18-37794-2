@@ -4,7 +4,7 @@
 Course Topic:
  HTML
  CSS
- php
+ PHP
  Javascript
  and many more...
  
