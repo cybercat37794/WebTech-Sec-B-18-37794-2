@@ -2,7 +2,12 @@
 
 require_once 'controller/userInfo.php';
 $student = fetchUser($_GET['id']);
+session_start(); 
 
+if(!isset($_SESSION['user_id']))
+{
+    header("location:login.php"); 
+}
 
  ?>
 <!DOCTYPE html>
