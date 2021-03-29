@@ -1,0 +1,120 @@
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQEDkzWpzz8ecoPHgKEU_o-Jb9uixGJBtIV6pLTXIEMwC8EQH7LW-fyM6vng86G5AnXA&usqp=CAU");
+ /*background-image: url("https://www.abbottsconstruction.com/wp-content/uploads/2015/06/Grey-website-background.png");*/
+
+  background-color: #cccccc; /*background color when image is not loaded*/
+
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.addUserH1{
+    color: #ff9900; /*add user page header tag*/
+
+}
+
+.ViewProfileH1{
+    color: #ff9900;
+    margin-left: 10px;
+}
+
+th{
+    padding-right: 50px;/*table hader design*/
+    color: white;
+}
+td{
+    color: #ffb957; /*table design*/
+}
+
+.editProfileH1{
+    color: #ff9900; /*header color*/
+    margin-left: 10px; /*header margin left*/
+    font-size: ; /*header font size*/
+
+}
+
+.changePasswordH1{
+    color: #ff9900; /*change password page header design*/
+    margin-left: 15px;
+}
+
+h2{
+    color: #ff9900; /*header color*/
+    margin-left: 10px; /*header margin left*/
+}
+
+h3{
+    color: #fbefdd; /*header color*/
+    margin-left: 10px; /*header margin left*/
+    font-size: 15px; /*header font size*/
+}
+
+.indexH3{
+    color: #ff9900; /* index page header color*/    
+}
+
+h4{
+    color: #ff9900; /*index page h4 color*/
+}
+
+.SessionName{
+    color: #ff9900; /*welcome message color*/
+}
+
+.linkInIndex{
+    color: /*index page url design*/
+}
+
+.form-group{
+margin-left: 10px; /*text box margin left*/
+font-family: sans-serif; /*text font*/
+}
+
+.userLogin{
+    color: #fbefdd; /*user login div color*/
+    margin-left: 10px; /*user login div margin left*/
+    font-size: 20px; /*user login div font size*/
+}
+
+.labelStyle{
+    color: #fbefdd; /*label color*/
+}
+
+.changePasswordLabel{
+    color: white; /*change password page label design*/
+    margin-left: 15px;
+}
+.changePasswordField{
+    margin-bottom: 15px; /*password field design*/
+    margin-left: 15px;
+}
+
+.editUserLabel{
+    color: #fbefdd; /*edituser page label design*/
+    margin-left: 15px;
+}
+
+.editUserInput{
+    margin-left: 15px; /*edituser page input field design*/
+    margin-bottom: 20px;
+}
+
+.editUserButton{
+    margin-left: 15px; /*edit user page button design*/
+    margin-top: 5px;
+}
+
+.changePasswordButton{
+    margin-left: 15px; /*change password page button design*/
+}
+
+.btn-info{
+    background-color: #01345f; /*submit button background color*/
+}
+
+a{
+    color: #f9eddb; /*create account link color*/
+}
