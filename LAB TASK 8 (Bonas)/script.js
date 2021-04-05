@@ -12,7 +12,7 @@ window.onload=function() {
 
 }
 
-px=py=10;
+px=py=10;//
 
 gs=tc=20;
 
